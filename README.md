@@ -3,11 +3,11 @@
 
 **This repos also save my progress, thoughts and useful resources.**
 
-**I am a Technical Artist, but let us see how far we can go and how deep we can reach. Here my favorite quote "We are too much overestimate what we can do in one year but underestimate what we can do in ten years."**
+**I am a Technical Artist, but let us see how far I can go and how deep I can reach. Here my favorite quote "We are too much overestimate what we can do in one year but underestimate what we can do in ten years."**
 
 ## Content
 - Learning Path
-  - Web Design : CSS + html
+  - Web Design : CSS + HTML
   - Javascript
   - C#
   - ES6/Debugging
